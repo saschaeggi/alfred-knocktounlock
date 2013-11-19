@@ -12,9 +12,9 @@ Download: https://github.com/saschaeggi/alfred-knocktounlock/raw/master/Knocktou
 
 # How to install
 
-1. First download it from here: https://github.com/saschaeggi/alfred-knocktounlock/raw/master/Knocktounlock%20App.alfredworkflow
+1. First download it from [here](https://github.com/saschaeggi/alfred-knocktounlock/raw/master/Knocktounlock%20App.alfredworkflow)
 
-2. Double-click the file "Knocktounlock%20App.alfredworkflow"
+2. Double-click the file "Knocktounlock App.alfredworkflow"
 
 # How to use
 
