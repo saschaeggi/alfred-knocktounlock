@@ -7,5 +7,5 @@ Download: https://github.com/saschaeggi/alfred-knocktounlock/raw/master/Knocktou
 
 # Version History
 
-0.1 Inital Version
-0.2 Use the offical API to lock the screen
+- 0.1 Inital Version
+- 0.2 Use the offical API to lock the screen
